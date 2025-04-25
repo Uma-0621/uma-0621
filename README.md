@@ -1,7 +1,6 @@
-[![Masterhead](https://www.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_2920104.htm?epik=dj0yJnU9MUR0Yk5xQXFYNk55dmdvbE5sOXBMRDdreWgxT1JzdEImcD0wJm49MEFtTWY0Z3RXaEc5Y0NyVjlReUZKZyZ0PUFBQUFBR2dMVWtB)](uma-0621)
+
 <h1 align="center">Hi 👋, I'm Uma Maheswari</h1>
 <h3 align="center">A passionate frontend developer,Software developer from India</h3>
-<img align="right" alt="web developer" width="300" src="https://iconscout.com/lottie-animations/female-web-developer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-0621&label=Profile%20views&color=0e75b6&style=flat" alt="uma-0621" /> </p>
 
 - 🌱 I’m currently learning **React.js**
@@ -23,7 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uma-0621&show_icons=true&locale=en" alt="uma-0621" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uma-0621&" alt="uma-0621" /></p>
 
 
 <!--
